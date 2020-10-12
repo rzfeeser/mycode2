@@ -8,3 +8,5 @@ To learn about python, ansible, and git
 
 ## 5 Year mission
 To explore strange new worlds, to seek out new life
+
+# this will self destruct
